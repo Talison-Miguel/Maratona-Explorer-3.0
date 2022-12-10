@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img alt="Imagem da Aplicação" src="maratona.jpg" />
+  <img alt="Imagem da Aplicação" src="maratona.png" />
 </p>
 
 ---
