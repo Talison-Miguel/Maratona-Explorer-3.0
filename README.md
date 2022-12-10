@@ -32,7 +32,7 @@
 - 📦️ [Como utilizar o projeto](#%EF%B8%8F-como-utilizar-o-projeto)
 ---
 
-## :rocket: Sobre o Repositório
+## Sobre o Repositório
 
 Este é um repositório contendo todo conteúdo que fiz do evento Maratona Explores pela Rocketseat
 
@@ -45,7 +45,7 @@ Este é um repositório contendo todo conteúdo que fiz do evento Maratona Explo
 
 ### Padronização de código
 
-  - :cat: [Editor Config](https://editorconfig.org/)
+  - :mouse: [Editor Config](https://editorconfig.org/)
 
 ### IDE
 
