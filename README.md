@@ -43,10 +43,6 @@ Este é um repositório contendo todo conteúdo que fiz do evento Maratona Explo
 ✅ [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) <br/>
 ✅ [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) <br/>
 
-### Padronização de código
-
-  - :mouse: [Editor Config](https://editorconfig.org/)
-
 ### IDE
 
   - [Visual Studio Code](https://code.visualstudio.com/)
